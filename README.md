@@ -1,6 +1,8 @@
 # Teach My Tot
 An offline first flashcard mobile web app for teaching toddlers and preschoolers. 
 
+![Teach my Tot](https://github.com/hirzamitz/teachmytot/blob/master/TeachMyTot.jpg)
+
 # Overview
 This project was developed using HTML, CSS, and JavaScript as part of the Grow with Google Challenge Scholarship (January 2018-April 2018). My main goal is to be able implement Service Workers, Cache API and IndexedDB to create an offline-first mobile web app.
 
